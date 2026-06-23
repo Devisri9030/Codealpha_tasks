@@ -44,8 +44,7 @@ The Hangman Game is a simple text-based Python application where players guess a
 🌟 Fun and beginner-friendly Python project
 
 ## 🎥 Project Demo
-🔗 https://drive.google.com/file/d/1-oEC4m1UJUYztmjKYEx659Mhvk5cbqV9/view
-
+🔗https://drive.google.com/file/d/1qWq8DYA6hokHVEE6UZXT5MPC86qmPXsA/view?usp=drivesdk
 ## 👩‍💻 Author
 🌟 Devisri
 
