@@ -37,9 +37,9 @@ A simple Python project that calculates total stock investment using user input 
 🌟 Demonstrates practical use of dictionaries and file handling
 
 ## 🎥 Project Demo
-Demo
 ## 🎬 Demo Video:
-🔗 https://drive.google.com/file/d/1pAw1fLK6wI6hybh1Umxttpvr3s_x2B83/view?usp=drivesdk
+🔗 
+https://drive.google.com/file/d/1pAw1fLK6wI6hybh1Umxttpvr3s_x2B83/view?usp=drivesdk
 
 ## 👩‍💻 Author
 🌟 Devisri seelam
